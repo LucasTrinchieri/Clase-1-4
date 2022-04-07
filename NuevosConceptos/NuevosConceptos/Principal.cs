@@ -83,6 +83,9 @@ namespace NuevosConceptos
             return primerCliente - segundoCliente;
         }
 
-
+        public static int RestaEnteros(this int numeroPrimero, int numeroSegundo)
+        {
+            return numeroPrimero - numeroSegundo;
+        }
     }
 }
