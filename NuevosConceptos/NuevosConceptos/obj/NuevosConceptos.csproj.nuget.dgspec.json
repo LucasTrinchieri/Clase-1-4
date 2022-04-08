@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\OneDrive - Universidad Católica de Santiago del Estero\\Luki\\3er año\\1er Cuatrimestre\\Programacion II\\NuevosConceptos 1-4\\Clase 1-4\\NuevosConceptos\\NuevosConceptos\\NuevosConceptos.csproj": {}
+    "E:\\REPOSITORIOS\\ucse-practica4\\trinchieri\\UCSE-PROG2-2022-practica-conceptos-Trinchieri\\NuevosConceptos\\NuevosConceptos\\NuevosConceptos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\OneDrive - Universidad Católica de Santiago del Estero\\Luki\\3er año\\1er Cuatrimestre\\Programacion II\\NuevosConceptos 1-4\\Clase 1-4\\NuevosConceptos\\NuevosConceptos\\NuevosConceptos.csproj": {
+    "E:\\REPOSITORIOS\\ucse-practica4\\trinchieri\\UCSE-PROG2-2022-practica-conceptos-Trinchieri\\NuevosConceptos\\NuevosConceptos\\NuevosConceptos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive - Universidad Católica de Santiago del Estero\\Luki\\3er año\\1er Cuatrimestre\\Programacion II\\NuevosConceptos 1-4\\Clase 1-4\\NuevosConceptos\\NuevosConceptos\\NuevosConceptos.csproj",
+        "projectUniqueName": "E:\\REPOSITORIOS\\ucse-practica4\\trinchieri\\UCSE-PROG2-2022-practica-conceptos-Trinchieri\\NuevosConceptos\\NuevosConceptos\\NuevosConceptos.csproj",
         "projectName": "NuevosConceptos",
-        "projectPath": "C:\\Users\\lucas\\OneDrive - Universidad Católica de Santiago del Estero\\Luki\\3er año\\1er Cuatrimestre\\Programacion II\\NuevosConceptos 1-4\\Clase 1-4\\NuevosConceptos\\NuevosConceptos\\NuevosConceptos.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\OneDrive - Universidad Católica de Santiago del Estero\\Luki\\3er año\\1er Cuatrimestre\\Programacion II\\NuevosConceptos 1-4\\Clase 1-4\\NuevosConceptos\\NuevosConceptos\\obj\\",
+        "projectPath": "E:\\REPOSITORIOS\\ucse-practica4\\trinchieri\\UCSE-PROG2-2022-practica-conceptos-Trinchieri\\NuevosConceptos\\NuevosConceptos\\NuevosConceptos.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "E:\\REPOSITORIOS\\ucse-practica4\\trinchieri\\UCSE-PROG2-2022-practica-conceptos-Trinchieri\\NuevosConceptos\\NuevosConceptos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

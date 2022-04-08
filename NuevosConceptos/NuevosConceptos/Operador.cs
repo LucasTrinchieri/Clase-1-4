@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NuevosConceptos
 {
-    public class Operador
+    public class Operador //EXCELENTE!!
     {
         public int Numero { get; set; }
         public static decimal operator /(Operador numeroPrimero, Operador numeroSegundo) //14
