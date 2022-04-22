@@ -19,11 +19,11 @@ namespace NuevosConceptos
             return (fechaPrimera.Second - fechaSegunda.Second) / 60;
         }
 
-        public static double Promedio(this List<int> listaEnteros) //4
+        public static double Promedio(this List<int> listaEnteros) //4 //No hace falta el "Enteros" en el nombre de la variable
         {
             return listaEnteros.Average();
         }
-        public static int MultiplicacionLista(this List<int> listaEnteros) //5
+        public static int MultiplicacionLista(this List<int> listaEnteros) //5 //No hace falta el "Enteros" en el nombre de la variable
         {
             int pares = 0;
             int impares = 0;
@@ -36,7 +36,8 @@ namespace NuevosConceptos
                 }
                 else { impares -= entero; }
             }
-
+            //se puede usar lambda
+            //var pares = listaEnteros.Where(x=>x% 2 == 0).Sum();
             return pares * impares;
         }
 
@@ -54,7 +55,7 @@ namespace NuevosConceptos
 
         public static string Invertido(this string stringInvertido) //7
         {
-            return stringInvertido.Reverse().ToString();
+            return stringInvertido.Reverse().ToString(); // No hace falta el toString
         }
 
         public static string UnionStrings(this string[] arrayString, char separadorChar) //8
